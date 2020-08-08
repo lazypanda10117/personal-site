@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: About Me
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: fisherman.png
 
-news: true
 social: true
 ---
+#### Brief Introduction:
+I am currently a 4th year computer science, combinatorics & optimizations, and pure mathematics student at the University of Waterloo. My interests reside in the intersection of computer science and mathematics, such as graph algorithms and computer algebra.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Academics and internships aside, I enjoy reading, travelling, learning new languages, and playing computer games (Slay the Spire, Train Valley 2, and Mini Metro, to name a few). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### Academics:
+Towards BMath. Honours Computer Science and Combinatorics & Optimization, and Minor in Pure Mathematics. University of Waterloo.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### Fun facts
+I spend some of my free time making board games. Previously, I have made a card-based RPG board game (see [here](https://github.com/lazypanda10117/Alien-Relocation)) and won the "Best game for a rainy day" award in the Waterloo Game Jam of Fall 2017. I have also built an API for a boardgame <a href="https://github.com/lazypanda10117/koup-api">Coup</a> that allows my friends and I to play the game using only our phones.
+
