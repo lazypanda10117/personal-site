@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume
 description:
-nav: true
+nav: false
 ---
 
 
