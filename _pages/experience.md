@@ -6,7 +6,7 @@ description: My current/past research and industry experience
 nav: true
 ---
 
-[GTS](https://gtsx.com) - Software Engineering Intern (C++) [Sep'20 - Dec'20]
+[GTS](#) - Software Engineering Intern (C++) [Sep'20 - Dec'20]
 
 Looking forward to it.
 
