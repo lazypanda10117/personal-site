@@ -7,6 +7,7 @@ description: About Me
 profile:
   align: right
   image: fisherman.png
+  aux_info: To those curious, that's a dried yellow fish.
 social: true
 ---
 #### Brief Introduction:
@@ -14,4 +15,4 @@ I am currently studying combinatorics & optimizations, computer science, and pur
 
 Academics and internships aside, I enjoy reading, travelling, learning new languages, and playing computer games (i.e Moonlighter, BOTW, Slay the Spire, Train Valley 2, and Mini Metro).
 
-Here is my [resmue](https://raw.githubusercontent.com/lazypanda10117/resume/master/resume.pdf) (Last Modified: Apr 2020).
+Here is my [resmue](https://raw.githubusercontent.com/lazypanda10117/resume/master/resume.pdf) (Last Modified: Oct 2020).
