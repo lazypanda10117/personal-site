@@ -9,4 +9,4 @@ nav: true
 #### Projects
 CS 762 - Planar Graphs has Bounded Queue-number [[Link](https://www.dropbox.com/s/y8q174d2g4huupv/lec_notes.pdf?dl=0)]
 
-CO 749 - Tangles are Decided by Weighted Vertex Sets [[Link](#)]
+CO 749 - Tangles are Decided by Weighted Vertex Sets [[Link](https://www.dropbox.com/s/y5kkn2lo4qlao34/main.pdf?dl=0)]
