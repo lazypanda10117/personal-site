@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Jeffrey Kam
-email: hykam@uwaterloo.ca
+email: #
 description: > # this means to ignore newlines until "url:"
-  Jeffrey's website
+  Jeffrey's Site
 footer_text: #
 
 url:  # the base hostname & protocol for your site
@@ -33,8 +33,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: lazypanda10117 # your GitHub user name
-linkedin_username: jeffreyhykam # your LinkedIn user name
+github_username: # your GitHub user name
+linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 research_gate_profile: # your profile on ResearchGate
 

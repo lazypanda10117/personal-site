@@ -2,17 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: About Me
+description: home
 
-profile:
-  align: right
-  image: fisherman.png
-  aux_info: To those curious, that's a dried yellow fish.
-social: true
+social: false
+
 ---
-#### Brief Introduction:
-I am currently studying combinatorics & optimizations, computer science, and pure mathematics at the University of Waterloo. My interests reside in the intersection of computer science and mathematics, such as graph theory, graph algorithms, discrete optimizations, and computer algebra.
 
-Academics and internships aside, I enjoy reading, travelling, learning new languages, and playing computer games (i.e Moonlighter, BOTW, Slay the Spire, Train Valley 2, and Mini Metro).
+I am currently a fourth year student at the University of Waterloo studying Combinatorics & Optimization and Computer Science. My interests reside in the intersection of computer science and mathematics, such as graph theory, graph algorithms, discrete optimizations, and computer algebra.
 
 Here is my [CV](https://raw.githubusercontent.com/lazypanda10117/cv/master/cv.pdf) (Last Modified: Dec 2020).

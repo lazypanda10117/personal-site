@@ -2,11 +2,11 @@
 layout: page
 title:  
 permalink: /writings/
-description: Some of my previous graduate course projects. Any errors are my sole responsibility.
+description: Some of my previous graduate course projects. Any errors are my sole responsibility. Email me for details.
 nav: true
 ---
 
 #### Projects
-CS 762 - Planar Graphs has Bounded Queue-number [[Link](https://www.dropbox.com/s/y8q174d2g4huupv/lec_notes.pdf?dl=0)]
+CS 762 - Planar Graphs has Bounded Queue-number
 
-CO 749 - Tangles are Decided by Weighted Vertex Sets [[Link](https://www.dropbox.com/s/y5kkn2lo4qlao34/main.pdf?dl=0)]
+CO 749 - Tangles are Decided by Weighted Vertex Sets

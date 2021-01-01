@@ -8,11 +8,6 @@ layout: default
     <div class="row">
       <div class="col">
         {{ content }}
-        {% if page.resume %}
-        <div class="social">
-          Here is my resume: 
-        </div>
-        {% endif %}
         {% if page.social %}
         <div class="social">
           {% include social.html %}
@@ -20,7 +15,7 @@ layout: default
         {% endif %}
       </div>
       {% if page.profile %}
-      <div class="profile col-4 {% if page.profile.align == 'left' %}order-first{% endif %}">
+      <div class="profile col-2 {% if page.profile.align == 'left' %}order-first{% endif %}">
         {% if page.profile.image %}
           <img class="img-fluid rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
         {% endif %}
