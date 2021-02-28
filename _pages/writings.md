@@ -10,9 +10,9 @@ nav: true
 
 These projects are mainly in the form of a survey on topics in graph theory.
 
-Bounding Queue-number of Planar Graphs [[Link](https://www.dropbox.com/s/y8q174d2g4huupv/lec_notes.pdf?dl=0)]
+Bounding Queue-Number of Planar Graphs [[Link](https://www.dropbox.com/s/y8q174d2g4huupv/lec_notes.pdf?dl=0)]
 
-Deciding Tangles with Weighted Vertex Sets and Certifying Large Branchwidth [[Link](https://www.dropbox.com/s/y5kkn2lo4qlao34/main.pdf?dl=0)]
+Deciding Tangles with Weighted Vertex Sets and Certifying Large Branchwidth with Tangle-kits [[Link](https://www.dropbox.com/s/y5kkn2lo4qlao34/main.pdf?dl=0)]
 
 ### Notes
 
@@ -24,6 +24,6 @@ CO 351 - Network Flow Theory [[Link](https://www.dropbox.com/s/45cijhw464srxl9/n
 
 CO 444 - Algebraic Graph Theory [[Link](https://www.dropbox.com/s/pb79w5jjwhqf82m/note.pdf?dl=0)]
 
-<!-- CO331 - Coding Theory [[Link](https://www.dropbox.com/s/y5kkn2lo4qlao34/main.pdf?dl=0)] -->
+CO331 - Coding Theory [[Link](https://www.dropbox.com/s/y5kkn2lo4qlao34/main.pdf?dl=0)]
 
 CS 370 - Numerical Computation [[Link](https://www.dropbox.com/s/oj0ttm2hgycggak/notes.pdf?dl=0)]
