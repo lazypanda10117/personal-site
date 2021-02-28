@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
 title: Publications
+permalink: /publications/
 description: in reverse chronological order
 years: [2020,2018]
 nav: true
