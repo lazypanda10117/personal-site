@@ -10,6 +10,10 @@ nav: true
 
 These works are mainly in the form of a survey on topics in graph theory and related areas.
 
+[A graph-theoretic proof for an upper bound of the maximum block code size](/assets/pdf/papers/network_coding_paper.pdf)
+
+- An alternative to the linear-algebraic proof for the upper bound of A_q(n,d) under the restriction d > n(q-1)/q using Turán's theorem.
+
 [On the Connection between Network Coding, Network Flow, and Matroid Theory](/assets/pdf/papers/network_coding_paper.pdf)
 
 - A survey on the link between the study of network coding, network flow, and matroid theory to better understand  the  limits  of  network  coding. It  covers  network  coding  fundamentals,  network  flow  in multicast networks, matroidal network, and some results on the computational complexity and network capacity.
