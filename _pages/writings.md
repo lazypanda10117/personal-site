@@ -22,6 +22,6 @@ These works are mainly in the form of a survey on topics in graph theory and rel
 
 - A written report of a recent proof by Dujmović et al. for a 20-year old conjecture on the queue-number of planar graphs, accompanied by lecture videos.
 
-[A graph-theoretic proof for an upper bound of the maximum block code size](/assets/pdf/papers/block_code_paper.pdf)
+[A Graph-theoretic Proof for an Upper Bound of the Maximum Block Code Size](/assets/pdf/papers/block_code_paper.pdf)
 
 - An alternative proof for the upper bound of block code size under certain restrictions using Turán's theorem.
